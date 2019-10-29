@@ -1,1 +1,1 @@
-echo lol;
+exit 42
